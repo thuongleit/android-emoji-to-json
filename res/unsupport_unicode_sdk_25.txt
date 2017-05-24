@@ -1,0 +1,8 @@
+people:
+nature:
+food:
+activity:
+place:
+object:
+symbol:
+flag:
